@@ -7,6 +7,6 @@
 <h3>N1zyyy is:</h3>
 <ol>
     <li><a href="https://www.python.org/">Python</a> Dev
-    <li> And...
-    <li> And.
+    <li> <a href="https://fabricmc.net/develop/">Minecarft Fabric mod</a> Dev
+    <li> And... end.
 </ol>
