@@ -6,7 +6,7 @@
 <h1>About me</h1>
 <h3>N1zyyy is:</h3>
 <ol>
-    <li><a href="https://www.python.org/">Python</a> Dev
-    <li> <a href="https://fabricmc.net/develop/">Minecarft Fabric mod</a> Dev
+    <li> <a href="https://www.python.org/">Python</a> Dev
+    <li> Minecarft Mod Dev
     <li> And... end.
 </ol>
